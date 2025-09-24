@@ -1,7 +1,7 @@
 # 👋Olá, me chamo Ana Júlia 😘
 
 - Tenho 17 anos, gosto muito de utilizar tecnologias e estou tendo oportunidades de conhecer um pouco sobre desenvolvimento de sistemas❤️
-- Sou apaixonada em Dogs, músicas e adoro ler livros online😍 
+- Sou apaixonada em Dogs, músicas e adoro ler livros online📖
 - Atualmente estou estudando no 2º Ano do Ensino Médio da Escola SESI🏫
 - Estou fazendo curso no Senai sobre Desenvolvimento de Sistemas💻
 
